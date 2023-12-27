@@ -1,0 +1,87 @@
+.bg-container{
+    background-color: #86d2f2;
+    background-size: cover;
+    height:100vh;
+}
+.heading{
+    color:#1f1d41;
+    font-family:'Roboto';
+    font-size:30px;
+    font-weight:bold;
+    text-align: center;
+    padding:10px;
+}
+#stopButton{
+    width:60px;
+    height:30px;
+    border-radius:8px;
+    border:none;
+    border-width:0px;
+    background-color: #1f1d41;
+    color:white;
+    margin-top:40px;
+    margin-bottom:20px;
+    margin-right:30px;
+}
+#readyButton{
+    width:60px;
+    height:30px;
+    border-radius:8px;
+    border:none;
+    border-width:0px;
+    background-color: #1f1d41;
+    color:white;
+    margin-top:40px;
+    margin-bottom:20px;
+    margin-right:30px;
+}
+#goButton{
+    width:60px;
+    height:30px;
+    border-radius:8px;
+    border:none;
+    border-width:0px;
+    background-color: #1f1d41;
+    color:white;
+    margin-top:40px;
+    margin-bottom:40px;
+    margin-right:30px;
+}
+.trafficsignalcontainer{
+    height:280px;
+    width:90px;
+    background-color: #1f1d41;
+    border-radius: 30px;
+    border-width: 0px;
+    border:none;
+}
+#stopLight{
+    background-color: #1f1d41;
+    height: 40px;
+    width:40px;
+    border-width: 0px;
+    border-radius:100px;
+    padding:20px;
+    margin:10px;
+    margin-bottom:20px;
+}
+#readyLight{
+    background-color: #1f1d41;
+    height: 40px;
+    width:40px;
+    border-width: 0px;
+    border-radius:100px;
+    padding:20px;
+    margin:10px;
+    margin-bottom:10px;
+}
+#goLight{
+    background-color: #1f1d41;
+    height: 40px;
+    width:40px;
+    border-width: 0px;
+    border-radius:100px;
+    padding:20px;
+    margin:10px;
+    margin-top:30px;
+}
